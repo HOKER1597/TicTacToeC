@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1621856170 source:c:\users\Влад\desktop\ОП лаб\cursov\main.cpp
+	"curses.h"
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1567591682 c:\users\Влад\desktop\ОП лаб\cursov\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1621583130 source:c:\users\Влад\desktop\ОП лаб\cursov\init_spaces.cpp
+
+1621584955 source:c:\users\Влад\desktop\ОП лаб\cursov\evaluate_board.cpp
+
+1621585274 source:c:\users\Влад\desktop\ОП лаб\cursov\paint_background.cpp
+	"curses.h"
+	<stdlib.h>
+
+1621585588 source:c:\users\Влад\desktop\ОП лаб\cursov\ai_fart.cpp
+	<stdlib.h>
+
+1621585677 source:c:\users\Влад\desktop\ОП лаб\cursov\check_for_block.cpp
+
+1621585430 source:c:\users\Влад\desktop\ОП лаб\cursov\check_for_winning_move.cpp
+
+1621585555 source:c:\users\Влад\desktop\ОП лаб\cursov\ai_turn.cpp
+	"curses.h"
+
+1621584875 source:c:\users\Влад\desktop\ОП лаб\cursov\main_menu.cpp
+	"curses.h"
+	<string.h>
+	<ctype.h>
+
+1621584608 source:c:\users\Влад\desktop\ОП лаб\cursov\paint_board.cpp
+	"curses.h"
+	<string.h>
+
+1621585641 source:c:\users\Влад\desktop\ОП лаб\cursov\pick_random_space.cpp
+	<stdlib.h>
+
+1621585289 source:c:\users\Влад\desktop\ОП лаб\cursov\pick_side.cpp
+	"curses.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621856644 source:c:\users\Влад\desktop\ОП лаб\cursov\player_turn.cpp
+	"curses.h"
+	<string.h>
+	<ctype.h>
+
+1621585707 source:c:\users\Влад\desktop\ОП лаб\cursov\spaces_left.cpp
+
+1621584608 source:c:\users\Влад\desktop\ОП лаб\cursov\take_turn.cpp
+
+1621585191 source:c:\users\Влад\desktop\ОП лаб\cursov\victory_splash.cpp
+	"curses.h"
+	<string.h>
+
+1621585588 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\ai_fart.cpp
+	<stdlib.h>
+
+1621585555 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\ai_turn.cpp
+	"curses.h"
+
+1567591682 c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1621585677 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\check_for_block.cpp
+
+1621585430 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\check_for_winning_move.cpp
+
+1621584955 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\evaluate_board.cpp
+
+1621583130 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\init_spaces.cpp
+
+1621856170 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\main.cpp
+	"curses.h"
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
+1621584875 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\main_menu.cpp
+	"curses.h"
+	<string.h>
+	<ctype.h>
+
+1621585274 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\paint_background.cpp
+	"curses.h"
+	<stdlib.h>
+
+1621584608 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\paint_board.cpp
+	"curses.h"
+	<string.h>
+
+1621585641 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\pick_random_space.cpp
+	<stdlib.h>
+
+1621585289 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\pick_side.cpp
+	"curses.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1621858173 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\player_turn.cpp
+	"curses.h"
+	<string.h>
+	<ctype.h>
+
+1621585707 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\spaces_left.cpp
+
+1621584608 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\take_turn.cpp
+
+1621585191 source:c:\users\pushy\desktop\ХНТУ\Курс 1\Курсова робота\Курсова ОП(1курс)\cursov\victory_splash.cpp
+	"curses.h"
+	<string.h>
+

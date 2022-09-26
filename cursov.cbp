@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cursov" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cursov" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="./pdcurses.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cursov" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ai_fart.cpp" />
+		<Unit filename="ai_turn.cpp" />
+		<Unit filename="check_for_block.cpp" />
+		<Unit filename="check_for_winning_move.cpp" />
+		<Unit filename="evaluate_board.cpp" />
+		<Unit filename="init_spaces.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="main_menu.cpp" />
+		<Unit filename="paint_background.cpp" />
+		<Unit filename="paint_board.cpp" />
+		<Unit filename="pick_random_space.cpp" />
+		<Unit filename="pick_side.cpp" />
+		<Unit filename="player_turn.cpp" />
+		<Unit filename="spaces_left.cpp" />
+		<Unit filename="take_turn.cpp" />
+		<Unit filename="victory_splash.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
